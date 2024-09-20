@@ -43,7 +43,7 @@
 }
 
 .text {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     text-align: left;
    @font-face {
     font-family: serif;
@@ -53,11 +53,11 @@
 }
 
 .a {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 .b {
     list-style-type: lower-alpha;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: rgb(119, 22, 22);
 }
 
@@ -82,7 +82,7 @@
 }
 
 .see{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     line-height: 1.6;
     margin-left: 23%;
 }
