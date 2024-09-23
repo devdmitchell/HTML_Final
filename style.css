@@ -16,7 +16,7 @@
 
 .headline {
     text-align: center;
-    font-size: 2.5rem;
+   font-size: 2.5;
 
     @font-face {
         font-family: sans-serif;
@@ -41,14 +41,10 @@
         font-family: sans-serif;
         src: url(https://www.font-collector.com/font.php?id=530&idCategory=9&idSubcategory=7);
     }
-
-    font-size: 2.5rem;
 }
 
 .text {
-    font-size: 1.3rem;
     text-align: left;
-
     @font-face {
         font-family: serif;
         src: url(https://www.font-collector.com/font.php?id=435&idCategory=9&idSubcategory=6);
@@ -57,7 +53,7 @@
 }
 
 .a {
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 .b {
