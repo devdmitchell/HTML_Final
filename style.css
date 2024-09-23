@@ -122,6 +122,7 @@
     width: 50%;
    display: flex;
    justify-content: center;
+}
 
 .footer {
     border-top: 4px solid rgb(177, 34, 34);
